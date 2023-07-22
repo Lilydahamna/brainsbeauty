@@ -28,7 +28,7 @@ const CartSummary = () => {
           </div>
           <div className="checkout-total">
             <h5>Subtotal: ${calculateTotalPrice()}</h5>
-            <h5>Taxes: TBD</h5>
+            <h5>Taxes: determined at next step</h5>
             <h5>Total: ${calculateTotalPrice()}</h5>
           </div>
         </div>

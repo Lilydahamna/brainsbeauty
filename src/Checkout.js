@@ -317,7 +317,7 @@ function Checkout() {
                   setPage((currPage) => currPage - 1);
                 }}
               >
-                Prev
+                Previous
               </button>
             )}
           {page !== 2 && ( 
@@ -326,7 +326,7 @@ function Checkout() {
                 setPage((currPage) => currPage + 1);
             }}
           >
-            {page === 1? "Submit" : "Next"}
+            {page === 1? "Confirm" : "Next"}
           </button>
             )}
           </div>
