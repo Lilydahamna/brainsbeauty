@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/brainsbeauty/static/css/main.fd7ccbe8.css",
-    "main.js": "/brainsbeauty/static/js/main.84c87bbf.js",
+    "main.js": "/brainsbeauty/static/js/main.54ab99a0.js",
     "static/media/droppers.png": "/brainsbeauty/static/media/droppers.d78bc647d42f49aa5040.png",
     "static/media/homephoto.webp": "/brainsbeauty/static/media/homephoto.fc82718527df2eb5deae.webp",
     "static/media/glycolic_acid_toning_solution.webp": "/brainsbeauty/static/media/glycolic_acid_toning_solution.414ab69a958259990b70.webp",
@@ -49,10 +49,10 @@
     "static/media/clear-spray.avif": "/brainsbeauty/static/media/clear-spray.c3e6dad88ab690ec74a1.avif",
     "index.html": "/brainsbeauty/index.html",
     "main.fd7ccbe8.css.map": "/brainsbeauty/static/css/main.fd7ccbe8.css.map",
-    "main.84c87bbf.js.map": "/brainsbeauty/static/js/main.84c87bbf.js.map"
+    "main.54ab99a0.js.map": "/brainsbeauty/static/js/main.54ab99a0.js.map"
   },
   "entrypoints": [
     "static/css/main.fd7ccbe8.css",
-    "static/js/main.84c87bbf.js"
+    "static/js/main.54ab99a0.js"
   ]
 }
