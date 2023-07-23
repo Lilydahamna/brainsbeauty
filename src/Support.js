@@ -23,9 +23,9 @@ const Support = () => {
     ],
     [
       "Are your products vegan?",
-      "Most Brains&Beauty products have been certified vegan by PETA, and we are currently obtaining certification for all other products. Until then, please refer to our legend for each product on our website that will indicate the specifications of any given product (for example, if it is vegan, nut-free, oil-free, etc.)",
+      "Most Brains&Beauty products have been certified vegan by PETA, and we are currently obtaining certification for all other products.",
       "Vos produits sont-ils vegan ?",
-      "La plupart des produits Brains&Beauty ont été certifiés végétaliens par PETA, et nous obtenons actuellement la certification pour tous les autres produits. D'ici là, veuillez vous référer à notre légende pour chaque produit sur notre site Web qui indiquera les spécifications d'un produit donné (par exemple, s'il est végétalien, sans noix, sans huile, etc.)",
+      "La plupart des produits Brains&Beauty ont été certifiés végétaliens par PETA, et nous obtenons actuellement la certification pour tous les autres produits.",
     ],
     [
       "Can I cancel my order?",
@@ -174,7 +174,7 @@ const Support = () => {
             />
           </div>
         </div>
-        <div className="col-auto mt-4 text-center">
+        <div className="col-auto mt-4 text-center mb-4">
           <button type="submit" className="submit-button" onClick={submit_form}>
             {language === "English" ? "Submit" : "Soumettre"}
           </button>
