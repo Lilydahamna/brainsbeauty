@@ -142,6 +142,7 @@ const ProductPage = () => {
                 padding: "10px 50px",
                 border: "none",
                 fontSize: "16px",
+                color:"white"
               }}
               onClick={addToCart}
             >

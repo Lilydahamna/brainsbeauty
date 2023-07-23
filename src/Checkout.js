@@ -451,7 +451,7 @@ function Checkout() {
                       setPage((currPage) => currPage - 1);
                     }}
                   >
-                    Prev
+                    Previous
                   </button>
                 )}
                 {page !== 2 && (
@@ -463,7 +463,7 @@ function Checkout() {
                     // }}
                     onClick={validate_input_and_go_next}
                   >
-                    {page === 1 ? "Submit" : "Next"}
+                    {page === 1 ? "Confirm" : "Next"}
                   </button>
                 )}
               </div>
