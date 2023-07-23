@@ -137,7 +137,7 @@ const ProductPage = () => {
           <div className="mt-5" style={{ marginBottom: "0px" }}>
             <button
               style={{
-                backgroundColor: "#cccccc",
+                backgroundColor: "#f1356d",
                 width: "200px",
                 padding: "10px 50px",
                 border: "none",
